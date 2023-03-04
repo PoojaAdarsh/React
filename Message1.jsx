@@ -1,12 +1,12 @@
 import React from 'react';
 import { Component } from 'react';
-class Search1 extends  Component
+class Message1 extends  Component
 {
     render()
     {
     return(
-        <h1>Search1</h1>
+        <h1>ho</h1>
     )
 }
 }
-export default Search1;
+export default Message1;
